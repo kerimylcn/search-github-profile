@@ -1,0 +1,32 @@
+.App {
+  background-color: #bebee7;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+img {
+  height: 30vmin;
+  pointer-events: none;
+}
+
+
+form {
+  margin-top: 50px;
+  
+}
+
+form button {
+  margin-left: 150px;
+  margin-top: 25px;
+}
+
+.logo{
+  height: 5vmin;
+}

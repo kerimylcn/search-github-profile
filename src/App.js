@@ -11,7 +11,7 @@ const App =() => {
    
   return (
     <div className="App">
-      <img src={logo} className="logo"></img>
+      <img src={logo} className="logox"></img>
       <Search />
      
     </div>
